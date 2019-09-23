@@ -36,7 +36,7 @@ public class ChannelAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     private int mLeft, mRight;    //蓝色线条距离屏幕左边的距离
     private int mTabY;            //Tab距离parent的Y的距离
 
-
+//1234afdsvg
     public ChannelAdapter(Context mContext, List<ChannelBean> mList, List<ChannelBean> recommendList, List<ChannelBean> cityList) {
         this.mContext = mContext;
         this.mList = mList;
